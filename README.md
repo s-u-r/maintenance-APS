@@ -1,7 +1,9 @@
 
 Industrial Challenge
 
-This description is included as part of APS Failure and Operational Data for Scania Trucks.
+This is the original description included as part of APS Failure and Operational Data for Scania Trucks.
+
+*****
 
 Copyright (c) <2016> <Scania CV AB>
 
